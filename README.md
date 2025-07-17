@@ -3,7 +3,7 @@
 
 **`An Attention driven fewshot Keyword spotting system`**
 
-## Proposed Architecture
+## System Architecture
 <img width="1680" height="761" alt="Blank diagram(1)" src="https://github.com/user-attachments/assets/d2583751-35a0-48d1-bbae-57a13902994d" />
 
 
