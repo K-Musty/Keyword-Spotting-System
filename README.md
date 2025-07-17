@@ -3,6 +3,10 @@
 
 **`An Attention driven fewshot Keyword spotting system`**
 
+## Proposed Architecture
+<img width="1680" height="761" alt="Blank diagram(1)" src="https://github.com/user-attachments/assets/d2583751-35a0-48d1-bbae-57a13902994d" />
+
+
 ## Background
 Speech recognition technology has advanced significantly over the years, becoming vital to many modern applications such as virtual assistants, voice-activated devices, and security systems. Traditional Large Vocabulary Continuous Speech Recognition (LVCSR) systems achieve high accuracy by leveraging vast labeled datasets and complex models that transcribe continuous speech. However, these systems struggle with scalability, high computational costs, and adaptability to new keywords, languages, or dialects without having a lot of retraining.
 Keyword Spotting (KWS) focuses on detecting predefined keywords within continuous audio streams, enabling efficient and low-latency voice interactions in devices with limited resources. Traditional KWS methods often require extensive labeled data per keyword, which restricts flexibility and deployment in dynamic or low-resource settings.
