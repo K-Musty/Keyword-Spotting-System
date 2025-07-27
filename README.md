@@ -14,7 +14,6 @@ Few-shot learning has emerged as a promising solution to these challenges by ena
 This study builds upon the work of Parnami and Lee (2021), who introduced a few-shot keyword spotting framework based on dilated convolutional networks and prototypical learning, extending it with attention-driven prototype refinement to better handle noisy or limited data and context variability.
 
 
-
 ### AUTHOR(S)
 - Abdulrahman Kalli Mustapha - kmustapha9564@gmail.com
 
